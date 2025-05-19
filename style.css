@@ -1,26 +1,14 @@
-body{
-    background-color: rgb(120, 134, 180);
+body {background-color: rgb(30, 255, 0);
 }
-h1{
-    text-align: center;
-    color: rgb(255, 189, 127);
-    font-size: 60px;
+.parte01 {background-color: rgb(180, 255, 127);
+    h1 {text-align: center;}
+    h2 {}
 }
-h2{
-    text-align: center;
-    color: rgb(129, 189, 61);
-    border-style: double;
-    border-width: 10%;
-    border-color: rgb(0, 195, 255);
-    margin-right: 40%;
-    margin-left: 40%;
-}
-#img1{
-    width: 50%;
-    margin-left: 25%;
+#imai {width: 50%;
 }
 
-h3{
-    font-size: 120%;
-    text-align: center;
+
+.parte02 {background-color: rgb(42, 48, 165);
+}
+.parte03 {background-color: blueviolet;
 }
